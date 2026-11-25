@@ -1,4 +1,4 @@
-### Compiler Based Secure Programming Language
+# Compiler Based Secure Programming Language
 
 ## Project Description
 
